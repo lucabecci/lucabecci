@@ -1,5 +1,6 @@
-### Hi there, I am 19 years old and I am from Argentina 👋
+![img](https://github.com/lucabecci/lucabecci/blob/master/git.png)
 
+### Hi there, I am 19 years old and I am from Argentina 👋
 - 🔭 I’m currently working on react projects and more
 - 🌱 I’m currently learning react and ml5.js
 - 👯 I’m looking to collaborate on all repositories of react, javascript, electron and more
