@@ -1,4 +1,4 @@
-![img](https://github.com/lucabecci/lucabecci/blob/master/git.png)
+![img](https://github.com/lucabecci/lucabecci/blob/master/git2.png)
 
 ### Hi there, I am 19 years old and I am from Argentina 👋
 - 🔭 I’m currently working on react projects and more
