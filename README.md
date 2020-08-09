@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with deno.js 
 - 💬 Ask me about for javascript and react
 - 📫 How to reach me: in wikridev@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: him
 - ⚡ Fun fact: to learn
 
