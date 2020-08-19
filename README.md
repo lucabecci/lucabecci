@@ -10,4 +10,4 @@
 - 😄 Pronouns: him
 - ⚡ Fun fact: to learn
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![lucabecci github stats](https://github-readme-stats.vercel.app/api?username=lucabecci)](https://github.com/lucabecci/github-readme-stats)
