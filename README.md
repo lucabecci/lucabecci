@@ -1,4 +1,4 @@
-u<h1 align="center">Hi 👋, I'm Luca Becci</h1>
+<h1 align="center">Hi 👋, I'm Luca Becci</h1>
 <h3 align="center">A passionate frontend developer from Argentina and i am 20 years old</h3>
 
 - 🔭 I’m currently working on **Ona System(personal project)**
