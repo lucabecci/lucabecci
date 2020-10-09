@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luca Becci</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
+ 
+ <img align="center" src="https://i.postimg.cc/fkQy83sb/me.png" alt="lucabecci" height="30" width="40" />
 
-[Link](https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
