@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca Becci</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
-![me](https://i.postimg.cc/1tz9BGNB/me.png)
+
+[Link](https://i.postimg.cc/1tz9BGNB/me.png)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
