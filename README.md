@@ -12,4 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabecci&layout=compact" alt="lucabecci" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucabecci&show_icons=true" alt="lucabecci" /></p>
