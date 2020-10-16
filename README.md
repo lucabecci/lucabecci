@@ -11,7 +11,7 @@
 
 ```javascript
 const luca = {
-  pronouns: "he" | "her",
+  pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "C++", "Python", "Java"],
   db: ["PostgreSQL", "MongoDB"],
   frameworksAndLibraries: ["React", "Vanilla", "Redux", "Node", "Express", "Sequelize", "Jest", "Docker", "Mongoose"],
