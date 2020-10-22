@@ -14,7 +14,7 @@ const luca = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "HTML", "CSS", "C++", "Python", "Java"],
   db: ["PostgreSQL", "MongoDB"],
-  frameworksAndLibraries: ["React", "Vanilla", "Redux", "Node", "Express", "Sequelize", "Jest", "Docker", "Mongoose"],
+  frameworksAndLibraries: ["React", "Vanilla", "Redux", "Node", "Express", "Sequelize", "Jest", "Passport", "Mongoose"],
   tools: ["VScode", "insomnia", "Linux", "Postman", "PGadmin4/3" ]
   architecture: ["REST"],,
  challenge: "I am doing the #100DaysOfCode challenge focused on backend with typescript and javascript"
