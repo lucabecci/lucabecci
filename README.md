@@ -1,5 +1,4 @@
 <h2> Hi, I'm Luca Becci! <img src="https://media.giphy.com/media/3o7btYzX9GycbDy7bW/giphy.gif" width="50"></h2>
-<p><em>Systems Student at <a href="https://www.ungs.edu.ar/">Universidad de General Sarmiento </a><img src="https://media.giphy.com/media/L1387vXiRQhD8lmzmD/giphy.gif" width="40">
 </em></p>
 
 [![Twitter: lucabecci](https://img.shields.io/twitter/follow/lucabecci?style=social)](https://twitter.com/lucabecci)
