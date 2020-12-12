@@ -6,6 +6,5 @@
 [![GitHub lucabecci](https://img.shields.io/github/followers/lucabecci?label=follow&style=social)](https://github.com/lucabecci)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucabecci&theme=nord" alt="lucabecci" /></a> </p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lucabecci&show_icons=true&locale=en&theme=nord" alt="lucabecci" /></p>
 
 
